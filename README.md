@@ -15,6 +15,7 @@ All activites happen in the MainActivity Class of the application but can be alt
 
 
 Specifications:
+
 Need Android Studio to run the application. 
 
 Need an acutal Android phone to debug and test the Bluetooth functionality (not just an emulator).
