@@ -15,9 +15,13 @@ All activites happen in the MainActivity Class of the application but can be alt
 
 
 Specifications:
-Need Android Studio to run the application
-Need an acutal Android phone to debug and test the Bluetooth functionality (not just an emulator)
+Need Android Studio to run the application. 
+
+Need an acutal Android phone to debug and test the Bluetooth functionality (not just an emulator).
+
 Can pair phone and Andriod Studio using USB debugging or WIFI
 
 App looks for two iHome Speakers with certain names. Once found, min RSSI is found
+
+
 The app has 3 different fragments; Home, History, Profile. They are inoperative but can be turned back on
